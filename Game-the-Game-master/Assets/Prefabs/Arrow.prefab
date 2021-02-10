@@ -76,6 +76,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f50c99e740447e46bd7a0bb92be248e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rb: {fileID: 3466082400739005680}
   basePower: 65
   parentTrans: {fileID: 0}
 --- !u!1 &4384419463026012953

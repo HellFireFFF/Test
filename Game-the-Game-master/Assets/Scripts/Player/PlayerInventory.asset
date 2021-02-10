@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: PlayerInventory
   m_EditorClassIdentifier: 
   inventoryItems:
+  - {fileID: 11400000, guid: 7d8ceed2c5c95134b99e009fe3f34e29, type: 2}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -21,5 +22,4 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 0}
-  inventoryItemAmount: 000000000000000000000000000000000000000000000000000000000000000000000000
+  inventoryItemAmount: 040000000000000000000000000000000000000000000000000000000000000000000000

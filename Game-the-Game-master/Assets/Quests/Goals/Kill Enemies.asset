@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Kill Enemies
   m_EditorClassIdentifier: 
   goalType: 1
-  countRequired: 5
+  countRequired: 2
   countCurrent: 0
   completed: 0
   goal: {fileID: 4004565322900366686, guid: 89e234ffa7f8dbe469557c89ef9ed05a, type: 3}
