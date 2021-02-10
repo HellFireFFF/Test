@@ -5,8 +5,6 @@ using UnityEngine;
 public class NPCConversation : MonoBehaviour
 {
     public DialogManager dialogManager;
-    public LookMouse lookMouse_thirdPerson;
-    public LookMouse lookMouse_firstPerson;
     public Dialog diag;
 
     public void Start()
@@ -23,8 +21,6 @@ public class NPCConversation : MonoBehaviour
 
             //Start Dialog
             dialogManager.StartDialog(diag);
-            lookMouse_thirdPerson.enabled = false;
-            lookMouse_firstPerson.enabled = false;
             //Don't forget to give the Next and Exit Button some funtionality 
         }
     }
@@ -34,9 +30,6 @@ public class NPCConversation : MonoBehaviour
         if (other.transform.tag == "Player")
         {
             dialogManager.StopDialog();
-
-            lookMouse_firstPerson.enabled = true;
-            lookMouse_thirdPerson.enabled = true;
         }
     }
 }

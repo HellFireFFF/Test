@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e43a41fc00947a846819cfbb4cac3913, type: 3}
+  m_Name: Reindeer_Dialog
+  m_EditorClassIdentifier: 
+  npcName: Reindeer
+  dialogLines:
+  - Hellooo we urgently need your help...
+  - There are 5 bandits in the village
+  - They are trying to destroy us
+  - Can you help us..? I also have something for you that could possibly help you
+  awaitingQuestCompletion: Come back if you could stop them then you'll get something
+    from me
+  questDone: Thank you very much, you saved us. here you have the key only for which
+    door it is I can't tell you ..
+  quest: {fileID: 11400000, guid: 3968a2f70f3de1d47915f09f6e74b9cf, type: 2}

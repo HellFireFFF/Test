@@ -8831,8 +8831,8 @@ GameObject:
   - component: {fileID: 7839227236848038208}
   - component: {fileID: 1072543221}
   - component: {fileID: 1072543225}
-  - component: {fileID: 457885550}
   - component: {fileID: 1072543226}
+  - component: {fileID: 457885550}
   m_Layer: 5
   m_Name: Inventory UI
   m_TagString: Untagged
@@ -8954,21 +8954,6 @@ MonoBehaviour:
   panelName: InventoryPanel
   panel: {fileID: 7839227236959448755}
   interactKey: 105
---- !u!114 &457885550
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7839227236848038215}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18ee916132900a468f85306bff2696b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  panelName: CharacterEquipmentPanel
-  panel: {fileID: 161163727}
-  interactKey: 99
 --- !u!114 &1072543226
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8985,6 +8970,21 @@ MonoBehaviour:
   - {fileID: 7839227236959448755}
   - {fileID: 165753656}
   - {fileID: 161163727}
+--- !u!114 &457885550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7839227236848038215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18ee916132900a468f85306bff2696b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panelName: CharacterEquipmentPanel
+  panel: {fileID: 161163727}
+  interactKey: 99
 --- !u!1 &7839227236856895297
 GameObject:
   m_ObjectHideFlags: 0

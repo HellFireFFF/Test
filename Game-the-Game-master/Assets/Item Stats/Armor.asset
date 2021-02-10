@@ -17,7 +17,7 @@ MonoBehaviour:
   sellValue: 30
   itemPrefab: {fileID: 2046029468485375427, guid: 2572f6f08f8394d41b994a7b7c6f2711,
     type: 3}
-  itemImage: {fileID: 21300000, guid: 85e8f3f6e88a26f43832b1258a2c98ea, type: 3}
+  itemImage: {fileID: 21300000, guid: 44fcb556f129f2b4baef46a10675cb07, type: 3}
   stacksize: 1
   equipmentSlot: 0
   armorValue: 5
