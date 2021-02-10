@@ -5,19 +5,7 @@ using UnityEngine;
 public class EnemyLookAtPlayer : MonoBehaviour
 {
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-
-
-    }
+    public bool isInRange;
 
     public void OnTriggerStay(Collider other)
     {
@@ -26,7 +14,16 @@ public class EnemyLookAtPlayer : MonoBehaviour
         {
             //look at player
             transform.LookAt(other.transform, Vector3.up);
+            isInRange = true;
+
         }
+
+    }
+
+    public void OnTriggerExit()
+    {
+
+        isInRange = false;
 
     }
 }
