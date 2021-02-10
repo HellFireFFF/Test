@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25ab28c0c15cd414f9fd39ae10fd1f07, type: 3}
+  m_Name: QuestFindRabbit
+  m_EditorClassIdentifier: 
+  title: Talk with the Rabbit
+  description: When you have found the rabbit and talked to him, let John know to
+    get more information from john
+  goals:
+  - {fileID: 11400000, guid: 189169005a6da454997313524f5027ca, type: 2}
+  finished: 0
+  completed: 0
+  itemReward: []
+  goldReward: 0
+  childQuests: []
+  experienceReward: 0
+  isQuestAccepted: 0
