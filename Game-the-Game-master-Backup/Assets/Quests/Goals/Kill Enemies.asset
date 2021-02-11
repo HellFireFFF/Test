@@ -16,5 +16,5 @@ MonoBehaviour:
   countRequired: 5
   countCurrent: 0
   completed: 0
-  goal: {fileID: 4004565322900366686, guid: 89e234ffa7f8dbe469557c89ef9ed05a, type: 3}
+  goal: {fileID: 8543193412150264106, guid: 1aa4bd95653509f4f87aa92b2e32a097, type: 3}
   coordinate: {x: 0, y: 0, z: 0}
