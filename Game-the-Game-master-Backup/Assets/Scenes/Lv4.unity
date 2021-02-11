@@ -63399,6 +63399,10 @@ PrefabInstance:
       propertyPath: npcName
       value: John
       objectReference: {fileID: 0}
+    - target: {fileID: 2141980321, guid: 6ed1e08f891d8064aa12133acd333565, type: 3}
+      propertyPath: baseHitpoints
+      value: 500
+      objectReference: {fileID: 0}
     - target: {fileID: 6841519380045152, guid: 6ed1e08f891d8064aa12133acd333565, type: 3}
       propertyPath: diag
       value: 
