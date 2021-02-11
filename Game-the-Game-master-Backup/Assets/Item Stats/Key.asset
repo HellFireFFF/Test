@@ -15,7 +15,7 @@ MonoBehaviour:
   itemName: Key
   buyValue: 0
   sellValue: 0
-  itemPrefab: {fileID: 919132149155446097, guid: a630e4b04135ae243af911f480487efd,
+  itemPrefab: {fileID: 3387561595141159783, guid: d0887e617153688419db95e3c5ccb0d6,
     type: 3}
   itemImage: {fileID: 21300000, guid: 9ba3242c0359df2439aab33dff344d44, type: 3}
   stacksize: 1
