@@ -716,6 +716,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &341641984
 GameObject:
   m_ObjectHideFlags: 0
@@ -860,6 +862,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &347558070
 GameObject:
   m_ObjectHideFlags: 0
@@ -1004,6 +1008,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &370616991
 GameObject:
   m_ObjectHideFlags: 0
@@ -1525,6 +1531,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &524623231
 GameObject:
   m_ObjectHideFlags: 0
@@ -1669,6 +1677,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &532055961
 GameObject:
   m_ObjectHideFlags: 0
@@ -1813,6 +1823,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &543514535
 GameObject:
   m_ObjectHideFlags: 0
@@ -2035,6 +2047,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &608337001
 GameObject:
   m_ObjectHideFlags: 0
@@ -2259,6 +2273,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &679293539
 GameObject:
   m_ObjectHideFlags: 0
@@ -2982,6 +2998,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &1192214918
 GameObject:
   m_ObjectHideFlags: 0
@@ -3126,6 +3144,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &1193291476
 GameObject:
   m_ObjectHideFlags: 0
@@ -3270,6 +3290,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &1219555433
 GameObject:
   m_ObjectHideFlags: 0
@@ -3494,6 +3516,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &1232511340
 GameObject:
   m_ObjectHideFlags: 0
@@ -3796,6 +3820,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &1345772377
 GameObject:
   m_ObjectHideFlags: 0
@@ -4189,6 +4215,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &1498001935
 GameObject:
   m_ObjectHideFlags: 0
@@ -4809,6 +4837,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &1679895692
 GameObject:
   m_ObjectHideFlags: 0
@@ -4953,6 +4983,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &1829337468
 GameObject:
   m_ObjectHideFlags: 0
@@ -5097,6 +5129,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &1857645409
 GameObject:
   m_ObjectHideFlags: 0
@@ -5492,6 +5526,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &2094763027
 GameObject:
   m_ObjectHideFlags: 0
@@ -5636,6 +5672,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &132935016840499758
 GameObject:
   m_ObjectHideFlags: 0
@@ -5858,6 +5896,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &3183284252560203076
 GameObject:
   m_ObjectHideFlags: 0
@@ -6080,6 +6120,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &7839227235603795432
 GameObject:
   m_ObjectHideFlags: 0
@@ -6563,6 +6605,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 3
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &7839227235801128739
 GameObject:
   m_ObjectHideFlags: 0
@@ -6748,8 +6792,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.14865266, y: 0.14865266, z: 0.14865266}
-  m_Children:
-  - {fileID: 7839227236070146319}
+  m_Children: []
   m_Father: {fileID: 7839227236848038211}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6810,6 +6853,7 @@ MonoBehaviour:
   cam: {fileID: 0}
   missleTarget: {x: 0, y: 0, z: 0}
   aim: {fileID: 0}
+  offset: {x: 0, y: 0, z: 0}
 --- !u!1 &7839227236034578339
 GameObject:
   m_ObjectHideFlags: 0
@@ -6955,6 +6999,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 1
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &7839227236065941947
 GameObject:
   m_ObjectHideFlags: 0
@@ -7100,84 +7146,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 8
---- !u!1 &7839227236070146318
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 7839227236070146319}
-  - component: {fileID: 7839227236070146313}
-  - component: {fileID: 7839227236070146312}
-  m_Layer: 5
-  m_Name: TargetName
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &7839227236070146319
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7839227236070146318}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.87560654, y: 0.87560654, z: 0.87560654}
-  m_Children: []
-  m_Father: {fileID: 7839227236019251984}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -13.4, y: 621}
-  m_SizeDelta: {x: 960, y: 960}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &7839227236070146313
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7839227236070146318}
-  m_CullTransparentMesh: 0
---- !u!114 &7839227236070146312
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7839227236070146318}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.40392157, b: 0.19607843, a: 0.64705884}
-  m_RaycastTarget: 1
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 73
-    m_FontStyle: 1
-    m_BestFit: 1
-    m_MinSize: 12
-    m_MaxSize: 300
-    m_Alignment: 4
-    m_AlignByGeometry: 1
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: 
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &7839227236077309676
 GameObject:
   m_ObjectHideFlags: 0
@@ -7323,6 +7293,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 7
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &7839227236150406982
 GameObject:
   m_ObjectHideFlags: 0
@@ -7754,6 +7726,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 2
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &7839227236325363443
 GameObject:
   m_ObjectHideFlags: 0
@@ -8970,6 +8944,7 @@ MonoBehaviour:
   - {fileID: 7839227236959448755}
   - {fileID: 165753656}
   - {fileID: 161163727}
+  mouseRotation: {fileID: 0}
 --- !u!114 &457885550
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9709,6 +9684,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 6
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &7839227237178626801
 GameObject:
   m_ObjectHideFlags: 0
@@ -9932,6 +9909,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &7839227237301183100
 GameObject:
   m_ObjectHideFlags: 0
@@ -10233,6 +10212,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 5
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &7839227237329539008
 GameObject:
   m_ObjectHideFlags: 0
@@ -10817,6 +10798,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 4
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1 &8917936234666900764
 GameObject:
   m_ObjectHideFlags: 0
@@ -11039,6 +11022,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   number: 0
+  equipmentManager: {fileID: 0}
+  inventory: {fileID: 0}
 --- !u!1001 &8803160955558528523
 PrefabInstance:
   m_ObjectHideFlags: 0

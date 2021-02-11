@@ -21,22 +21,18 @@ public class ShowHealth : MonoBehaviour
     public void Start()
     {
 
-        
 
-        playerHealthRightNowText = playerHealthRightNow.ToString();
-        playerHealthFullText = playerHealthFull.ToString();
-        playerHealthRightNow = player.GetComponent<Stats>().currentHitpoints;
-        playerHealthFull = player.GetComponent<Stats>().baseHitpoints + player.GetComponent<Stats>().hitpointsBonus;
-
-     
 
     }
 
     public void Update()
     {
 
+        playerHealthRightNowText = playerHealthRightNow.ToString();
+        playerHealthFullText = playerHealthFull.ToString();
+        playerHealthRightNow = player.GetComponent<Stats>().currentHitpoints;
+        playerHealthFull = player.GetComponent<Stats>().baseHitpoints + player.GetComponent<Stats>().hitpointsBonus;
 
-     
         ShowHealthPlayer();
         ui.text = uiText;
 
