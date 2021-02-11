@@ -8,7 +8,7 @@ public class MouseState : MonoBehaviour
     public List<GameObject> uiPanels;
     bool isUIActive;
     bool lastState;
-    int isAcitveCounter = 0;
+    int isActiveCounter = 0;
 
     public LookMouse mouseRotation;
 
@@ -20,24 +20,24 @@ public class MouseState : MonoBehaviour
 
     public void LateUpdate()
     {
-        isAcitveCounter = 0;
+        isActiveCounter = 0;
 
         foreach (GameObject panel in uiPanels)
         {
 
             if (panel.activeSelf)
             {
-                isAcitveCounter++;
+                isActiveCounter++;
             }
 
         }
 
-        if (isAcitveCounter > 0)
+        if (isActiveCounter > 0)
         {
             isUIActive = true;
             mouseRotation.isActive = false;
         }
-        else if (isAcitveCounter == 0)
+        else if (isActiveCounter == 0)
         {
 
             isUIActive = false;
